@@ -1,7 +1,31 @@
 Hi 👋 My name is Sandro Ariel Gómez Araya
 =========================================
 
-Software Craftsman and Agile enthusiast | Former CTO @ Clever.cl
+Software Craftsman and Agile enthusiast and Non-successful entrepeneur
+
+🏢 Hands-on CIO @ MetLife Colombia
+
+✨ Founder (again) @ Furio Lab
+
+🤓 Tech Advisor @ sbytechnologies.com
+
+🤓 Tech Advisor @ somospawer.com
+
+🤓 Former CTO @ Clever.cl by BICE
+
+🤓 Former CTO & Founder @ KIIT
+
+🤓 Non-Successful Founder @ El Manche (Burger House)
+
+🤓 Former CTO & Co-Founder @ Moondo.cl
+
+🤓 Former CTO & Founder @ Codecamp
+
+🤓 Former Cloud Solution Architect @ segurosfalabella.cl
+
+🤓 Former Software Engineer @ Recorrido.cl
+
+
 ---------------------------------------------------------
 
 * 🌍  I'm based in Chile
