@@ -25,6 +25,8 @@ Software Craftsman and Agile enthusiast and Non-successful entrepeneur
 
 🤓 Former Software Engineer @ Recorrido.cl
 
+🤓 Former Software Development Director @ OW Latam
+
 
 ---------------------------------------------------------
 
