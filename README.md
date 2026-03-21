@@ -109,3 +109,59 @@ CIO with a track record of leading technology-driven transformations across **fi
 </table>
 
 <br>
+
+## 🗂️ Career Journey
+
+<table>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">CTO &amp; Co-Founder</strong> · Clever.cl by BICE<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Fintech · Digital Banking</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">CTO &amp; Founder</strong> · KIIT<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">B2B SaaS</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">CTO &amp; Co-Founder</strong> · Moondo.cl<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Ecommerce · Retail Tech</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">CTO &amp; Founder</strong> · Codecamp<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Edtech</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">Cloud Solution Architect</strong> · Seguros Falabella<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Insurance · Retail</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#764ba2;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0;border-bottom:1px solid #21262d">
+      <strong style="color:#e6edf3">Software Development Director</strong> · OW Latam<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Digital Consulting</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="color:#484f58;font-size:16px;padding:8px 12px 8px 0;vertical-align:top">●</td>
+    <td style="padding:8px 0">
+      <strong style="color:#e6edf3">Software Engineer</strong> · Recorrido.cl<br>
+      <span style="color:#6e7681;font-size:12px;font-style:italic">Travel Tech</span>
+    </td>
+  </tr>
+</table>
+
+<br>
