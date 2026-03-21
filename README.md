@@ -53,3 +53,34 @@ CIO with a track record of leading technology-driven transformations across **fi
 </p>
 
 <br>
+
+## 📌 Currently
+
+<table>
+  <tr>
+    <td style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px;width:50%">
+      <strong style="color:#e6edf3;font-size:14px">🏢 MetLife Colombia</strong><br>
+      <span style="color:#8b949e;font-size:12px">Hands-on Chief Information Officer</span><br>
+      <span style="background:#21262d;border-radius:4px;padding:2px 6px;font-size:11px;color:#8b949e">Insurtech · Strategic Transformation</span>
+    </td>
+    <td style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px;width:50%">
+      <strong style="color:#e6edf3;font-size:14px">⚡ Furio Lab</strong><br>
+      <span style="color:#8b949e;font-size:12px">Founder</span><br>
+      <span style="background:#21262d;border-radius:4px;padding:2px 6px;font-size:11px;color:#8b949e">AI · Innovation · Ventures</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px">
+      <strong style="color:#e6edf3;font-size:14px">🤝 SBY Technologies</strong><br>
+      <span style="color:#8b949e;font-size:12px">Tech Advisor</span><br>
+      <span style="background:#21262d;border-radius:4px;padding:2px 6px;font-size:11px;color:#8b949e">Technology Strategy</span>
+    </td>
+    <td style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 16px">
+      <strong style="color:#e6edf3;font-size:14px">🤝 Somos Pawer</strong><br>
+      <span style="color:#8b949e;font-size:12px">Tech Advisor</span><br>
+      <span style="background:#21262d;border-radius:4px;padding:2px 6px;font-size:11px;color:#8b949e">Technology Strategy</span>
+    </td>
+  </tr>
+</table>
+
+<br>
