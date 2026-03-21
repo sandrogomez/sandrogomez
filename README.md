@@ -84,3 +84,28 @@ CIO with a track record of leading technology-driven transformations across **fi
 </table>
 
 <br>
+
+## 📊 By the Numbers
+
+<table>
+  <tr>
+    <td align="center" style="background:#161b22;border:1px solid #21262d;border-radius:10px;padding:14px 10px;width:25%">
+      <strong style="color:#667eea;font-size:22px">15+</strong><br>
+      <span style="color:#8b949e;font-size:10px;text-transform:uppercase;letter-spacing:0.5px">Years in Tech</span>
+    </td>
+    <td align="center" style="background:#161b22;border:1px solid #21262d;border-radius:10px;padding:14px 10px;width:25%">
+      <strong style="color:#667eea;font-size:22px">6</strong><br>
+      <span style="color:#8b949e;font-size:10px;text-transform:uppercase;letter-spacing:0.5px">Ventures Built</span>
+    </td>
+    <td align="center" style="background:#161b22;border:1px solid #21262d;border-radius:10px;padding:14px 10px;width:25%">
+      <strong style="color:#667eea;font-size:22px">4</strong><br>
+      <span style="color:#8b949e;font-size:10px;text-transform:uppercase;letter-spacing:0.5px">Sectors Led</span>
+    </td>
+    <td align="center" style="background:#161b22;border:1px solid #21262d;border-radius:10px;padding:14px 10px;width:25%">
+      <strong style="color:#667eea;font-size:22px">3</strong><br>
+      <span style="color:#8b949e;font-size:10px;text-transform:uppercase;letter-spacing:0.5px">Countries</span>
+    </td>
+  </tr>
+</table>
+
+<br>
