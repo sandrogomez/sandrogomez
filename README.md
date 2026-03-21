@@ -15,3 +15,15 @@
   <img src="https://img.shields.io/badge/Ecommerce--1f6feb?style=flat&logoColor=white" alt="Ecommerce" />
   <img src="https://img.shields.io/badge/Fintech--1f6feb?style=flat&logoColor=white" alt="Fintech" />
 </p>
+
+<br>
+
+<p align="center">
+  <em>"Driving strategic business transformation through technology — turning AI, data, and digital enablers into real competitive advantage."</em>
+</p>
+
+<br>
+
+CIO with a track record of leading technology-driven transformations across **finance, insurtech, retail, ecommerce, and education**. I bridge the gap between business strategy and technical execution — building high-performance engineering teams, scaling digital platforms, and embedding **AI and data capabilities** as core strategic levers. Founder twice over, failed once (El Manche 🍔), and still going.
+
+<br>
