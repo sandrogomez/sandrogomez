@@ -165,3 +165,22 @@ CIO with a track record of leading technology-driven transformations across **fi
 </table>
 
 <br>
+
+## 📈 GitHub Activity
+
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/sandrogomez">
+        <img src="https://github-readme-stats.vercel.app/api?username=sandrogomez&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/sandrogomez">
+        <img src="https://streak-stats.demolab.com/?user=sandrogomez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Contribution streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
