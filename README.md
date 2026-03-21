@@ -184,3 +184,28 @@ CIO with a track record of leading technology-driven transformations across **fi
 </table>
 
 <br>
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.twitter.com/sandrogomez" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sgomeza" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://www.medium.com/sandrogomez" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.github.com/sandrogomez" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="http://sandrogomez.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Blog-667eea?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Blog" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="Footer" />
+</p>
