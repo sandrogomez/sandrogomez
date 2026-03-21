@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandro%20Ariel%20G%C3%B3mez%20Araya&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=CIO%20%C2%B7%20Founder%20%C2%B7%20Strategic%20Transformation&descAlignY=58&descSize=14" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sandro%20Ariel%20G%C3%B3mez%20Araya&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=CIO%20%C2%B7%20Founder%20%C2%B7%20%20Innovation&descAlignY=58&descSize=14" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
-  📍 Santiago, Chile &nbsp;·&nbsp; Open to Fintech &amp; Open Banking collaboration
+  📍 Santiago, Chile &nbsp;·&nbsp; Open to Fintech &amp; Insurtech &amp; Open Banking collaboration
 </p>
 
 <p align="center">
@@ -189,9 +189,9 @@ CIO with a track record of leading technology-driven transformations across **fi
 
 <p>
   <a href="https://www.twitter.com/sandrogomez" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/sgomeza" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sandrogomezaraya" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="http://www.medium.com/sandrogomez" target="_blank" rel="noreferrer">
