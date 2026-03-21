@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Finance-1f6feb?style=flat&logoColor=white" alt="Finance" />
-  <img src="https://img.shields.io/badge/Insurtech-1f6feb?style=flat&logoColor=white" alt="Insurtech" />
-  <img src="https://img.shields.io/badge/Retail-1f6feb?style=flat&logoColor=white" alt="Retail" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Data-1f6feb?style=flat&logoColor=white" alt="AI and Data" />
-  <img src="https://img.shields.io/badge/Ecommerce-1f6feb?style=flat&logoColor=white" alt="Ecommerce" />
-  <img src="https://img.shields.io/badge/Fintech-1f6feb?style=flat&logoColor=white" alt="Fintech" />
+  <img src="https://img.shields.io/badge/Finance--1f6feb?style=flat&logoColor=white" alt="Finance" />
+  <img src="https://img.shields.io/badge/Insurtech--1f6feb?style=flat&logoColor=white" alt="Insurtech" />
+  <img src="https://img.shields.io/badge/Retail--1f6feb?style=flat&logoColor=white" alt="Retail" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Data--1f6feb?style=flat&logoColor=white" alt="AI &amp; Data" />
+  <img src="https://img.shields.io/badge/Ecommerce--1f6feb?style=flat&logoColor=white" alt="Ecommerce" />
+  <img src="https://img.shields.io/badge/Fintech--1f6feb?style=flat&logoColor=white" alt="Fintech" />
 </p>
